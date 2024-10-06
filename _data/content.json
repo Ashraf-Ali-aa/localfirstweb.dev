@@ -269,6 +269,12 @@
         "title": "Syncing data",
         "items": [
           {
+            "title": "Legend State Management",
+            "author": "Legend App",
+            "url": "https://www.legendapp.com/open-source/state/v3/",
+            "icon": "https://www.legendapp.com/open-source/state/v3/favicon.ico"
+          },
+          {
             "title": "Amplify DataStore",
             "author": "Amazon Web Services",
             "url": "https://docs.amplify.aws/lib/datastore/getting-started/q/platform/js/",
